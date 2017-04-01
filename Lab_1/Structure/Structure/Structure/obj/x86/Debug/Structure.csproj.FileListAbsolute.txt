@@ -1,0 +1,8 @@
+F:\Program Assignments\Structure\Structure\Structure\bin\Debug\Structure.exe
+F:\Program Assignments\Structure\Structure\Structure\bin\Debug\Structure.pdb
+F:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.Form1.resources
+F:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.Properties.Resources.resources
+F:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.csproj.GenerateResource.Cache
+F:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.exe
+F:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.pdb
+F:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.csprojResolveAssemblyReference.cache

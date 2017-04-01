@@ -1,0 +1,56 @@
+F:\Program Assignments\Structure\Structure\Structure\bin\Debug\Structure.exe
+F:\Program Assignments\Structure\Structure\Structure\bin\Debug\Structure.pdb
+F:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.Form1.resources
+F:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.Properties.Resources.resources
+F:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.csproj.GenerateResource.Cache
+F:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.exe
+F:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.pdb
+F:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.csprojResolveAssemblyReference.cache
+E:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.exe
+E:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.pdb
+E:\Program Assignments\Structure\Structure\Structure\bin\Debug\Structure.exe
+E:\Program Assignments\Structure\Structure\Structure\bin\Debug\Structure.pdb
+E:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.csprojResolveAssemblyReference.cache
+E:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.Form1.resources
+E:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.Properties.Resources.resources
+E:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.csproj.GenerateResource.Cache
+D:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.exe
+D:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.pdb
+D:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.csprojResolveAssemblyReference.cache
+D:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.Form1.resources
+D:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.Properties.Resources.resources
+D:\Program Assignments\Structure\Structure\Structure\obj\x86\Debug\Structure.csproj.GenerateResource.Cache
+D:\Program Assignments\Structure\Structure\Structure\bin\Debug\Structure.exe
+D:\Program Assignments\Structure\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\James\Desktop\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\obj\x86\Debug\Structure.exe
+C:\Users\James\Desktop\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\obj\x86\Debug\Structure.pdb
+C:\Users\James\Desktop\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\bin\Debug\Structure.exe
+C:\Users\James\Desktop\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\James\Desktop\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\obj\x86\Debug\Structure.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\obj\x86\Debug\Structure.Form1.resources
+C:\Users\James\Desktop\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\obj\x86\Debug\Structure.Properties.Resources.resources
+C:\Users\James\Desktop\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\obj\x86\Debug\Structure.csproj.GenerateResource.Cache
+E:\Program Assignments\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\obj\x86\Debug\Structure.exe
+E:\Program Assignments\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\obj\x86\Debug\Structure.pdb
+E:\Program Assignments\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\bin\Debug\Structure.exe
+E:\Program Assignments\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\bin\Debug\Structure.pdb
+E:\Program Assignments\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\obj\x86\Debug\Structure.csprojResolveAssemblyReference.cache
+E:\Program Assignments\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\obj\x86\Debug\Structure.Form1.resources
+E:\Program Assignments\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\obj\x86\Debug\Structure.Properties.Resources.resources
+E:\Program Assignments\Lab 3\James_P_lab2_se255 (1)\Structure\Structure\Structure\obj\x86\Debug\Structure.csproj.GenerateResource.Cache
+E:\Program Assignments\James_P_lab3\Lab 3\Structure\obj\x86\Debug\Structure.exe
+E:\Program Assignments\James_P_lab3\Lab 3\Structure\obj\x86\Debug\Structure.pdb
+E:\Program Assignments\James_P_lab3\Lab 3\Structure\bin\Debug\Structure.exe
+E:\Program Assignments\James_P_lab3\Lab 3\Structure\bin\Debug\Structure.pdb
+E:\Program Assignments\James_P_lab3\Lab 3\Structure\obj\x86\Debug\Structure.csprojResolveAssemblyReference.cache
+E:\Program Assignments\James_P_lab3\Lab 3\Structure\obj\x86\Debug\Structure.Form1.resources
+E:\Program Assignments\James_P_lab3\Lab 3\Structure\obj\x86\Debug\Structure.Properties.Resources.resources
+E:\Program Assignments\James_P_lab3\Lab 3\Structure\obj\x86\Debug\Structure.csproj.GenerateResource.Cache
+F:\Program Assignments\James_P_lab3\Lab 3\Structure\obj\x86\Debug\Structure.exe
+F:\Program Assignments\James_P_lab3\Lab 3\Structure\obj\x86\Debug\Structure.pdb
+F:\Program Assignments\James_P_lab3\Lab 3\Structure\bin\Debug\Structure.exe
+F:\Program Assignments\James_P_lab3\Lab 3\Structure\bin\Debug\Structure.pdb
+F:\Program Assignments\James_P_lab3\Lab 3\Structure\obj\x86\Debug\Structure.csprojResolveAssemblyReference.cache
+F:\Program Assignments\James_P_lab3\Lab 3\Structure\obj\x86\Debug\Structure.Form1.resources
+F:\Program Assignments\James_P_lab3\Lab 3\Structure\obj\x86\Debug\Structure.Properties.Resources.resources
+F:\Program Assignments\James_P_lab3\Lab 3\Structure\obj\x86\Debug\Structure.csproj.GenerateResource.Cache
